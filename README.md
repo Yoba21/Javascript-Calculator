@@ -1,0 +1,2 @@
+Front End Libraries Projects - Build a JavaScript Calculator Question Link: https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-javascript-calculator
+Objective: Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/wgGVVX. Fulfill the below user stories and get all of the tests to pass. Give it your own personal style.
